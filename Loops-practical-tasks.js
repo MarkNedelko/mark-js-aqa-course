@@ -40,3 +40,11 @@
 //         console.log(i + ' * ' + j + ' = ' + i * j);
 //     }
 // }
+
+// Обчисліть факторіал числа n, використовуючи цикл. (Дано: n = 7)
+// let n = 7;
+// let factorial = 1;
+// for (let i = 1; i <= n; i++) {
+//     factorial *= i;
+// }
+// console.log(factorial);
